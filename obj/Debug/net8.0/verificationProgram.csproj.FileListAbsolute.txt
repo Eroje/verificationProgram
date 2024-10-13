@@ -1,0 +1,15 @@
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/bin/Debug/net8.0/verificationProgram
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/bin/Debug/net8.0/verificationProgram.deps.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/bin/Debug/net8.0/verificationProgram.runtimeconfig.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/bin/Debug/net8.0/verificationProgram.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/bin/Debug/net8.0/verificationProgram.pdb
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.AssemblyInfoInputs.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.AssemblyInfo.cs
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.csproj.CoreCompileInputs.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.sourcelink.json
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/refint/verificationProgram.dll
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.pdb
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/verificationProgram.genruntimeconfig.cache
+/Users/mojidyusuferoje/Desktop/CeeSharp/verificationProgram/obj/Debug/net8.0/ref/verificationProgram.dll
